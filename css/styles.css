@@ -1,7 +1,7 @@
 .Logo{
     background-color: #E5E5E5;
     text-align: center;
-    ;
+    
 }
 .Titulo{
     background-color:#C4C4C4;
@@ -21,9 +21,20 @@ span{
     Font-style: italic
 }
 
-.Footer{
+footer{
+    display: inline;
+}
 
+.Footer{
     background-color: #005677;
     color:white;
-    text-align:center;
+    height: 25px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
 }
+
+.Footer img{
+    margin-top: 2px;
+}
+
