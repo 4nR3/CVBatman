@@ -20,6 +20,15 @@ h3{
     letter-spacing: 5px;
     color: #005677;
 }
+
+dt{
+    margin-left: 25px;
+}
+
+dd{
+    margin-left: 102px;
+}
+
 span{
     Font-weight: bold;
 }
